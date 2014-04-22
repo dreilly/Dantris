@@ -1,0 +1,15 @@
+﻿Build started 1/19/2014 11:47:29 AM.
+     1>Project "C:\Users\bill\Documents\Visual Studio 2013\Projects\betterThanDansTris\betterThanDansTris\betterThanDansTris.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\dan\Desktop\SFML-2.1\include" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\betterThanDansTris.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt betterThanDansTris.cpp Game.cpp IO.cpp
+         betterThanDansTris.cpp
+     1>c:\users\bill\documents\visual studio 2013\projects\betterthandanstris\betterthandanstris\IO.h(26): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+         Game.cpp
+     1>c:\users\bill\documents\visual studio 2013\projects\betterthandanstris\betterthandanstris\IO.h(26): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+         IO.cpp
+     1>c:\users\bill\documents\visual studio 2013\projects\betterthandanstris\betterthandanstris\IO.h(26): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+     1>Done Building Project "C:\Users\bill\Documents\Visual Studio 2013\Projects\betterThanDansTris\betterThanDansTris\betterThanDansTris.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.96
